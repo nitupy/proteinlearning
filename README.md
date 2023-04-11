@@ -6,7 +6,7 @@
   <h3 align="center">Protein Function Prediction Using Deep Learning</h3>
 
   <p align="center">
-    Machine Learning 
+    Deep Learning 
     <br />
     <a href="https://github.com/"><strong>Explore the docs »</strong></a>
     <br />
