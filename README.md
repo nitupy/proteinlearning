@@ -18,16 +18,18 @@
 </div>
 
 
-## Project Overiew 👀 
+# Project Overiew 👀 
 * Protiens are one of the key biochemicals of life and their functions play a crucial role in maintaining the functioning of living organisms. Understanding the function of a protein can allow us to determine how different proteins interact with each other and with other molecules in the human body. This project utilizes deep learning to predict the function of a protein based on its seqeuence of amino acids. 
 
-## Data 📊
+### Data 📊
 * This project utilizes a dataset of protein structures and their corresponding functions from the Protein Data Bank (PDB). The database contains over 170,000 3D structures of proteins and nucelic acids. This data can be used to extract amino acid sequences of proteins and their corresponding functions which can be used to train the deep learning model.
 
-## Applications 🧪
+### Applications 🧪
 * Protein function prediction is a significant in a wide range of appplications throughout the field of biology. Moreover, by combinging deep learning with biological data, this project can improve the accuracy and speed at which scientists can predict the function of proteins, which is a crucial in the field of bioinformatics. 
 
 <br></br>
+
+# Additional Information ✏️
 
 ### Prerequisites 🚩
 
@@ -36,7 +38,7 @@
 * Strong knowledge in Python, a popular programming language that is used for deep learning and machine learning 🐍
 * Strong foundation in biology and basic knowledge of biochemistry to understand the relavence of biology and the application of deep learning in resolving a problem in bioinformatics 🔬
 
-### Links 🔗 
+### Links + Info 🔗 
 <p align = "center">
 
 <a href="https://www.python.org/doc/">Python Documentation</a>
@@ -54,7 +56,8 @@
 <a href="https://paperswithcode.com/datasets?mod=biology">Biology Datasets</a>
 
 
-## Methodology ⚙️
+
+# Methodology ⚙️
 
 ### **Extraction**
 * Initially, we must extract the amino acid sequences and additional data from the Protein Data Bank. We must then utilize deep learning techniques to extract features from the amino acid sequences to determine the structure of the protein.
