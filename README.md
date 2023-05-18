@@ -79,7 +79,7 @@ for line in lines:
     if line.startswith('SEQRES'):
         sequence += line[19:].strip().replace(' ', '')
 ```
-<br></br>
+<br>
 
 ``` python
 import tensorflow as tf
