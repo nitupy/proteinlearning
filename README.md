@@ -101,8 +101,5 @@ model.add(LSTM(units=64))
 # Add a fully connected layer to predict the function of the protein
 model.add(Dense(units=num_functions, activation='softmax'))
 
-
-  
-  
 ```
 
